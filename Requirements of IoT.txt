@@ -1,0 +1,15 @@
+Requirements of IoT
+Connectivity
+IoT devices must be able to connect to the internet through a wired or wireless connection. Connectivity is essential for the Internet of Things (IoT), as it allows IoT devices to communicate with each other and with a central server or cloud platform.
+
+Various technologies and protocols can enable internet connectivity in IoT devices, including Wi-Fi, Bluetooth, and cellular networks. The choice of technology will depend on factors such as the device's location, power requirements, and data transfer needs. For example, an intelligent irrigation system located in a remote field may use a cellular network to connect to the internet, as it may not have access to a Wi-Fi network.
+
+Sensors
+IoT devices must have sensors that can gather data from their environment, such as temperature, humidity, motion, or sound. This data is then used to trigger actions or provide user information. Sensors can be integrated into the device or connected through external means, such as a sensor module or a smart hub.
+
+Some common types of sensors used in the IoT include temperature sensors, humidity sensors, motion sensors, and sound sensors. They can be integrated into the device or connected through external means, such as a sensor module or a smart hub. The data collected by sensors are often used to trigger actions or provide user information. For example, an intelligent irrigation system may use data from weather sensors to determine the optimal amount of water to apply to a lawn, or a smart security camera may use facial recognition to determine whether a person entering a home is an authorized user.
+
+Intelligence
+IoT devices must be able to process and analyze the data they collect and make decisions based on that data. This can be done through onboard software or by sending the data to a central server for processing. For example, a smart irrigation system may use data from weather sensors to determine the optimal amount of water to apply to a lawn, or a smart security camera may use facial recognition to determine whether a person entering a home is an authorized user.
+
+Intelligence is an essential requirement for the Internet of Things (IoT). It allows IoT devices to process and analyze the data they collect and make decisions based on that data. Without intelligence, an IoT device would be unable to perform its intended function or provide value to the user.
